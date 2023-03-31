@@ -1,3 +1,5 @@
+4/1限定でChatGPT APIを活用したAIキャラクターの岡部るびいちゃんによるタロット占いを行っています。
+
 twitter : [@hatopop_vr](https://twitter.com/hatopop_vr)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
