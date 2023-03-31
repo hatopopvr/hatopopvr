@@ -1,4 +1,4 @@
-4/1限定でChatGPT APIを活用したAIキャラクターの岡部るびいちゃんによるタロット占いを行っています。
+※4/1限定でChatGPT APIを活用したAIキャラクターの岡部るびいちゃんによるタロット占いを行っています。驚かないでね。
 
 twitter : [@hatopop_vr](https://twitter.com/hatopop_vr)
 
