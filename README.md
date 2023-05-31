@@ -1,6 +1,7 @@
 整理しきれてないので一時的なリンク  
-ScoreSaberのデータからWordCloudを作成するツール -> [MyBSCloud](https://github.com/hatopopvr/MyBSCloud)
-
+- ScoreSaberのデータからWordCloudを作成するツール -> [MyBSCloud](https://github.com/hatopopvr/MyBSCloud)  
+- ScoreSaberの拡張[(motzel/scoresaber-unranked-acc)](https://github.com/motzel/scoresaber-unranked-acc)のBeatLeaderリプレイリンク改造版 -> [scoresaber-enhanced-bl-replays](https://github.com/hatopopvr/scoresaber-enhanced-bl-replays)  
+  
 twitter : [@hatopop_vr](https://twitter.com/hatopop_vr)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
