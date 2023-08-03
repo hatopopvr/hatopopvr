@@ -1,6 +1,7 @@
 整理しきれてないので一時的なリンク  
 - ScoreSaberのデータからWordCloudを作成するツール -> [MyBSCloud](https://github.com/hatopopvr/MyBSCloud)  
 - ScoreSaberの拡張[(motzel/scoresaber-unranked-acc)](https://github.com/motzel/scoresaber-unranked-acc)の改造版 -> [scoresaber-enhanced-bl-replays](https://github.com/hatopopvr/scoresaber-enhanced-bl-replays)  
+- X(旧twitter)のキーワードをXで染め上げる拡張 -> [x-killed-the-blue-bird](https://github.com/hatopopvr/x-killed-the-blue-bird)
   
 twitter : [@hatopop_vr](https://twitter.com/hatopop_vr)
 
