@@ -2,6 +2,7 @@
 - ScoreSaberのデータからWordCloudを作成するツール -> [MyBSCloud](https://github.com/hatopopvr/MyBSCloud)  
 - ScoreSaberの拡張[(motzel/scoresaber-unranked-acc)](https://github.com/motzel/scoresaber-unranked-acc)の改造版 -> [scoresaber-enhanced-bl-replays](https://github.com/hatopopvr/scoresaber-enhanced-bl-replays)  
 - X(旧twitter)のキーワードをXで染め上げる拡張 -> [x-killed-the-blue-bird](https://github.com/hatopopvr/x-killed-the-blue-bird)
+- 通知からリアクション一覧表示するmisskeyプラグイン -> [misskey-destroyer-watch-plugin](https://github.com/hatopopvr/misskey-destroyer-watch-plugin)
   
 twitter : [@hatopop_vr](https://twitter.com/hatopop_vr)
 
