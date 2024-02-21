@@ -6,6 +6,7 @@
 **misskey-plugin**
 - 通知からリアクション一覧表示するmisskeyプラグイン -> [misskey-destroyer-watch-plugin](https://github.com/hatopopvr/misskey-destroyer-watch-plugin)
 - ノートについたリアクション・リノートの詳細表示するmisskeyプラグイン -> [misskey-note-reaction-viewer-plugin](https://github.com/hatopopvr/misskey-note-reaction-viewer-plugin)
+- フォローしているユーザーの中で、誕生日が近い人々を一覧表示するmisskeyプラグイン -> [misskey-birth-viewer-plugin](https://github.com/hatopopvr/misskey-birth-viewer-plugin)
 
 **アカウント**
 - misskey : [@hatopop_vr@misskey.io](https://misskey.io/@hatopop_vr)
